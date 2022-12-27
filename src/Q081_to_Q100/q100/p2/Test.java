@@ -1,6 +1,7 @@
 package Q081_to_Q100.q100.p2;
 
-import new_version.Q081ToQ100.q100.p1.Acc;
+
+import Q081_to_Q100.q100.p1.Acc;
 
 public class Test extends Acc {
     public static void main(String[] args) {

@@ -1,6 +1,7 @@
 package Q081_to_Q100.q087;
 
-import static new_version.Q081ToQ100.q087.MarkList.graceMarks;
+
+import static Q081_to_Q100.q087.MarkList.graceMarks;
 
 public class Q087 {
     public static void main(String[] args) {

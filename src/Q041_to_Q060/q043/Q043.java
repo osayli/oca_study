@@ -12,6 +12,7 @@ public class Q043 {
             return s.length() <= 2;
         })) {
        //     System.out.println(s + "removed"); //s causes compilation error
+            System.out.println("removed");//if we remove s the result be :removed
         }
     }
 }

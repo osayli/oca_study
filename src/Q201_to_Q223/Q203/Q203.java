@@ -18,9 +18,4 @@ D) 10
 
 Answer is C
 
-A)
-B)
-C)
-D)
-E)
  */
